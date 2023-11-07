@@ -1,2 +1,1 @@
-# bng-academy
-# bng-academy
+# bng-akademi
