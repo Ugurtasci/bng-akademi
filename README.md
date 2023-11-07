@@ -1,4 +1,4 @@
-# bng-akademi
+
 <h1>bng-akademi</h1>
 
 Bootstrap kütüphanesi kullanılarak  oluşturulmuş bir akademi sitesi olup ve ilk projedir
