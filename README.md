@@ -4,6 +4,7 @@
 Bootstrap kütüphanesi kullanılarak  oluşturulmuş bir akademi sitesi olup ve ilk projedir
 
 <h2>Kullanılan Özellikler</h3>
+
  -Bootstrap
  -Html
  -Css
