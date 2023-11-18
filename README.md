@@ -10,6 +10,8 @@ Bu proje, BNG Akademi adlı bir eğitim platformunun web sitesini oluşturmak i�
  -Css
 
  <h3>Ekran Görüntüsü</h3>
+ 
+![ekran görüntüsü](https://github.com/Ugurtasci/bng-akademi/assets/146867143/9d910458-4d54-4faf-8171-4c1775ee583f)
 
- ![](ekran görüntüsü.gif)
+
  
